@@ -1,0 +1,50 @@
+body {
+    min-width:300px;
+    min-height: 400px;
+    margin: 0;
+    font-family: cursive;
+}
+.header {
+    background-color: #943843;
+    height: 50px;
+    margin: 0;
+    margin-bottom: 10px;
+}
+.htext {
+    color: #ffffff;
+    margin: 6px;
+    position: absolute;
+}
+.content {
+    margin-top: 10px;
+}
+.btn {
+    background-color:#ffffff;
+    width: 100px;
+    color: #565b5a;
+}
+
+.btn.active {
+    color:  #ffffff;
+    background-color:#565b5a;
+}
+.log {
+    margin-top: 10px;
+    padding-left: 47px;
+    margin-bottom: 10px;
+}
+.wi-input {
+    padding: 10px;
+}
+.wi-btn {
+    border: 1px solid #565b5a;
+}
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+}
